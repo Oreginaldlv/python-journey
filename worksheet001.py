@@ -1,5 +1,5 @@
-age = 12
-income = 70000
+age = 66
+income = 19000
 
 if age >= 65 and income >= 50000:
     print("Senior Uneligible")
