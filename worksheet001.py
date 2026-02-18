@@ -3,6 +3,8 @@ income = 19000
 
 if age >= 65 and income >= 50000:
     print("Senior Uneligible")
+elif age >= 65 and income <= 50000:
+    print("Senior Elligible")    
 elif age <= 64 and age > 17:
     print("Eligible")
 else:
