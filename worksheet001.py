@@ -1,4 +1,4 @@
-age = 66
+age = 12
 income = 19000
 
 if age >= 65 and income >= 50000:
