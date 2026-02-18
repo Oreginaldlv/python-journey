@@ -1,6 +1,8 @@
-salary = 50000
+score = 82
 
-if salary >= 70000:
-    print("Target hit.")
+if score >= 90:
+    print("Excellent")
+elif score >= 70:
+    print("Good")
 else:
-    print("Still building.")
+    print("Needs Improvement")
